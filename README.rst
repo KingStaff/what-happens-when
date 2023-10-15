@@ -674,6 +674,11 @@ GPU Rendering
   of ``GPU`` massive parallelism for float point calculations required for
   the rendering process.
 
+* Energy Efficiency: GPU rendering is often more energy-efficient than relying solely on the CPU for rendering tasks. GPUs are designed for parallel processing, allowing the CPU to enter low-power states more frequently. This energy 
+  efficiency is particularly important in mobile devices and laptops to extend battery life.
+
+* Support for Advanced Effects: GPU rendering enables the implementation of advanced graphical effects, such as real-time ray tracing, global illumination, and complex shaders. These effects significantly enhance the visual quality of 
+  graphics in applications like video games and 3D modeling software, providing a more immersive and realistic experience for users.
 
 Window Server
 -------------
